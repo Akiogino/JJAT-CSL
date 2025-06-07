@@ -9,11 +9,13 @@
 ### 引用形式
 
 **学術論文の場合:**
+
 ```
 1) 著者名：タイトル. 雑誌名, 巻(号), ページ, 年.
 ```
 
 **Webサイトの場合:**
+
 ```
 2) 著者名：タイトル. サイト名, 年. 〈URL〉（年月日閲覧）
 ```
@@ -21,6 +23,7 @@
 ## インストール方法
 
 ### Zoteroの場合
+
 1. `JJAT_CSL.csl`ファイルをダウンロード
 2. Zoteroを開く
 3. 設定 → 引用 → スタイル → "+"ボタン
@@ -28,6 +31,7 @@
 5. インストール完了
 
 ### その他の文献管理ソフト
+
 CSL対応の文献管理ソフト（Mendeley、Papers等）でも使用可能です。
 
 ## ファイル
@@ -47,7 +51,7 @@ CSL対応の文献管理ソフト（Mendeley、Papers等）でも使用可能で
 ## 作成者
 
 - 作成者: Akiyama Kaito
-- 作成日: 2025年1月
+- 作成日: 2025年6月
 
 ## ライセンス
 
@@ -60,5 +64,5 @@ CSL対応の文献管理ソフト（Mendeley、Papers等）でも使用可能で
 ## 関連リンク
 
 - [日本自律訓練学会](https://www.jjat.jp/)
-- [Citation Style Language](https://citationstyles.org/)
-- [Zotero](https://www.zotero.org/) 
+- [Citation Style Language](https://www.jsoat.jp/)
+- [Zotero](https://www.zotero.org/)
